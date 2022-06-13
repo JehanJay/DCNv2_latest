@@ -11,7 +11,7 @@ It's suggested using latest stable pytorch 1.11 to start your project.
 ## Install
 
 ```bash
-$ python3 setup.py build develop
+$ python setup.py build develop -d /home/jehan/thesis_ws/src/smart2_yolnetpp/env/lib/python3.8
 ```
 
 ## Updates
